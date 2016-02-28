@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="Review Courses" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Refer To Univ" />
+        <item
+            android:id="@+id/nav_manage"
+
+            android:title="Pay Via" />
+
+
+        <item
+            android:id="@+id/nav_sundata"
+
+            android:title="Syndata" />
+
+        <item
+            android:id="@+id/nav_help"
+
+            android:title="Help" />
+
+
+        <item
+            android:id="@+id/nav_refresh"
+
+            android:title="Refresh" />
+
+        <item
+            android:id="@+id/nav_back"
+
+            android:title="Back" />
+
+
+    </group>
+
+
+
+</menu>
